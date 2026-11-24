@@ -2,4 +2,4 @@
 
 Matplotlib chart exercises for Python and Data Engineering Week 1, Day 4.
 
-Feature branch README update.
+Feature branch README conflict update.
