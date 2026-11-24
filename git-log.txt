@@ -1,0 +1,17 @@
+﻿*   bcdffbf (HEAD -> main) Merge feature/add-charts with Matplotlib charts
+|\  
+| * dc29246 (feature/add-charts) Add Matplotlib charts for employee and sales data
+* |   c27541a Resolve README merge conflict
+|\ \  
+| * | c8689ce (conflict-feature) Update README on feature branch for conflict demo
+* | | 096b7c1 Merge branch 'conflict-feature'
+|\| | 
+| * | 189d967 venkata
+| * | 246a888 vekata
+* | | 8405b66 Update README on main for conflict demo
+|/ /  
+* | d9153f6 Update README from conflict feature branch
+* | 8247a30 Update README from main branch
+|/  
+* e63bf5b Add initial README and gitignore
+
