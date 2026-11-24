@@ -2,4 +2,5 @@
 
 Matplotlib chart exercises for Python and Data Engineering Week 1, Day 4.
 
-Main branch README update.
+Resolved README update:
+Main and feature branch README changes have been combined successfully.
