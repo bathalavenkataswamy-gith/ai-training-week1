@@ -9,3 +9,7 @@ Main and feature branch README changes have been combined successfully.
 
 The repository contains the Matplotlib chart script, employee data, four required PNG files,
 and the combined bonus chart.
+
+## Pull Request
+
+This branch documents the chart submission.
